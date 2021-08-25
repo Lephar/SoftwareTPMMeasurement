@@ -46,5 +46,5 @@ with the following command:
 
 strings tool can be found in binutils package. If everything goes as expected, you should see an output similar to this one:
 
-![Binary BIOS Measurement](measurement.png)
+![Binary BIOS Measurement](measurement.jpeg)
 
