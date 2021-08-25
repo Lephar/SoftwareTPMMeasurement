@@ -44,7 +44,8 @@ with the following command:
 
 `sudo strings /sys/kernel/security/tpm0/binary_bios_measurements | grep "cmdline"`
 
-strings tool can be found in binutils package. If everything goes as expected, you should see an output similar to this one:
+strings tool can be found in binutils package. If everything goes as expected, you should see an output similar to this one
+(your kernel options):
 
 ![Binary BIOS Measurement](measurement.jpeg)
 
